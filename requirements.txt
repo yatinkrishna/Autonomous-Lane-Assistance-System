@@ -1,0 +1,4 @@
+﻿# Portable desktop venv installation. On Raspberry Pi use apt packages instead;
+# see README: apt's cv2 distribution is not tracked as opencv-python by pip.
+numpy>=1.24,<3
+opencv-python>=4.6,<5
